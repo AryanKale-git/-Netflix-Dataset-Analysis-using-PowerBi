@@ -1,0 +1,2 @@
+# -Netflix-Dataset-Analysis-using-PowerBi
+Developed a dynamic dashboard in Power BI to analyze Netflix viewing data. The dashboard features interactive visualizations of key metrics such as viewership trends, content popularity, and user engagement. With advanced filtering and drill-down capabilities, it provides in-depth insights into viewing habits and content performance. This project showcases my expertise in data visualization and analysis, delivering a valuable tool for understanding user behavior and optimizing content strategy.
